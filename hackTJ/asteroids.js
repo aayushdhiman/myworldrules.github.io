@@ -84,7 +84,15 @@ questions.push({
     choices4: "Taking on more debt",
     correct: 1
 });
-
+questions.push({
+    ques: "Which is most recyclable?",
+    current: false,
+    choices1: "Shredded Paper",
+    choices2: "Plastic Bottles",
+    choices3: "Plastic Bags",
+    choices4: "Choice 2 and 3",
+    Correct:2
+});
 questions.push({
     ques: "Should you create a budget?",
     current: false,

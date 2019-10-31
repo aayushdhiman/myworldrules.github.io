@@ -119,6 +119,15 @@ questions.push({
     Correct:2
 });
 questions.push({
+    ques: "Which is a dictator?",
+    current: false,
+    choices1: "Shredded Paper",
+    choices2: "Plastic Bottles",
+    choices3: "Plastic Bags",
+    choices4: "JOHSEPH STALIN",
+    Correct:4
+});
+questions.push({
     ques: "Which is creating less waste?",
     current: false,
     choices1: "Reducing",

@@ -220,6 +220,15 @@ questions.push({
     choices4: "Very few people invest money",
     correct: 1
 });
+questions.push({
+    ques: "What is 1+1",
+    current: false,
+    choices1: "Yes",
+    choices2: "No",
+    choices3: "Window",
+    choices4: "2",
+    correct: 4
+});
 
 function gameOver() {
     //   location.reload();
